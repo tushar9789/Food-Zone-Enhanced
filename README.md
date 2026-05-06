@@ -6,7 +6,7 @@ This project focuses on **premium UI, smooth UX, and real-world features**.
 ---
 
 ## 🚀 Live Demo
-👉 food-zone-enhanced.vercel.app
+👉 https://food-zone-enhanced.vercel.app/
 
 ---
 
